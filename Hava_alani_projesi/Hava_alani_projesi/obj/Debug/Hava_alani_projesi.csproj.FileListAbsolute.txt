@@ -1,0 +1,8 @@
+C:\Users\gurka\source\repos\Hava_alani_projesi\Hava_alani_projesi\bin\Debug\Hava_alani_projesi.exe.config
+C:\Users\gurka\source\repos\Hava_alani_projesi\Hava_alani_projesi\bin\Debug\Hava_alani_projesi.exe
+C:\Users\gurka\source\repos\Hava_alani_projesi\Hava_alani_projesi\bin\Debug\Hava_alani_projesi.pdb
+C:\Users\gurka\source\repos\Hava_alani_projesi\Hava_alani_projesi\obj\Debug\Hava_alani_projesi.csproj.AssemblyReference.cache
+C:\Users\gurka\source\repos\Hava_alani_projesi\Hava_alani_projesi\obj\Debug\Hava_alani_projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurka\source\repos\Hava_alani_projesi\Hava_alani_projesi\obj\Debug\Hava_alani_projesi.csproj.CoreCompileInputs.cache
+C:\Users\gurka\source\repos\Hava_alani_projesi\Hava_alani_projesi\obj\Debug\Hava_alani_projesi.exe
+C:\Users\gurka\source\repos\Hava_alani_projesi\Hava_alani_projesi\obj\Debug\Hava_alani_projesi.pdb
